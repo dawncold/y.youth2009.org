@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: SD之路 | dawncold's youth]]></title>
+  <link href="http://y.youth2009.org/blog/categories/sd之路/atom.xml" rel="self"/>
+  <link href="http://y.youth2009.org/"/>
+  <updated>2012-12-17T20:36:40+08:00</updated>
+  <id>http://y.youth2009.org/</id>
+  <author>
+    <name><![CDATA[dawncold]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[终于拿到软考证书了]]></title>
+    <link href="http://y.youth2009.org/blog/2012/04/16/get-the-sd-certification/"/>
+    <updated>2012-04-16T00:00:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2012/04/16/get-the-sd-certification</id>
+    <content type="html"><![CDATA[<p><img class="alignnone" title="软考证书" src="http://pic.yupoo.com/dawncold0/BTyCsEWc/medish.jpg" alt="" width="478" height="640" /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[软考过了]]></title>
+    <link href="http://y.youth2009.org/blog/2012/01/25/pass-software-exam/"/>
+    <updated>2012-01-25T00:00:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2012/01/25/pass-software-exam</id>
+    <content type="html"><![CDATA[<p>前几天看了下本省人事部门的考试查询页面，发现2011年下半年的软考成绩能查询了，今年真是给力，在过年前就弄好了，以前还以为得一月底才能知道成绩。</p>
+
+
+
+
+<p>上午成绩：58，下午成绩：61，按照规定，45就通过，看来拿证就是时间的问题了，等通知：）</p>
+
+
+
+
+<p>至此，SD之路就走到头了，原本以为会接着考系统分析师（SA），不过在自己挑战心的驱使下，我想到考系统架构师，当然和系统分析师相比之下感觉要高级一点，不过在软件的开发过程中都是不可或缺的职位，也没有绝对的谁高谁低，就像CEO和CTO一样，都是首席职位，只是负责的部分不同，都要协调合作才能给公司带来利益。</p>
+
+
+
+
+<p>有点小失望的是分数太低了，我复习了那么久，看来还是方法不得当，记不住关键点，同样是考试，别人随便一复习就和我的成绩差不多，有些不平衡的感觉。每个人都有适合自己的方法，我只能用这种笨笨的方法+勤奋喽：）</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[做完了所有软考的题]]></title>
+    <link href="http://y.youth2009.org/blog/2011/10/16/finish-all-questions-about-software-exam/"/>
+    <updated>2011-10-16T00:00:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2011/10/16/finish-all-questions-about-software-exam</id>
+    <content type="html"><![CDATA[<p>今天终于把留到最后的一套软考题目昨晚了，至此2008年到2010年的真题就全部做过一遍了。准备进入11月之后每天再做一遍，那是最后的冲刺，目前还是以看书为主，看完这一遍后估计也得到月底了，那时可以看看jobs传啦什么的，就到拿准考证找考场的时间了，希望考场容易找：）</p>
+
+
+
+
+<p>另外，最近做的几套题都过了现在的45分通过线，但不是太保险，有时候58、59分这样，有时候也52、53分这样，现在来看，那些拿70+分数的牛人也不知道是怎么备考的（如果有的话），但我也还有不少上升空间，比如最近几套题的下午试题中关于算法的那道题我基本不想做，第一眼会的就写，不会的直接蒙上，要是我能在最后这几天看好算法的话，或许还能有所提升，下午试题中其他题目尽量不要再丢分，这样总体能提高一些。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[软考有信心了]]></title>
+    <link href="http://y.youth2009.org/blog/2011/09/25/i-have-confidence-about-software-exam/"/>
+    <updated>2011-09-25T00:00:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2011/09/25/i-have-confidence-about-software-exam</id>
+    <content type="html"><![CDATA[<p>当然了，原来只是不太清除自己的信心有多么大，经过自测了几年的真题发现，我应该能够通过考试，但就是没能拿到那种很不错的分数，我认为不错的分数就是两卷都在60以上，这是我的一个目标，但目前来说，我从未达到过这个目标，一般两卷的分数都是在55～60这个段。</p>
+
+
+
+
+<p>十一的时候想回家看看暑假中买的那本《算法导论》，因为在软考下午卷中一般有个专门考算法的题目，倒不是很难，但这个题我的得分率很低，往往喜欢先跳着把会的空写上，再反推前面的空是什么，而且我也比较讨厌伪代码的方式——太精炼的，如果明白的话，会提高开发算法的效率，直接不关注细节！</p>
+
+
+
+
+<p>还有就是数据结构中的一些问题经常让我丢分，比如二叉树的各种难题、图的题目等等。</p>
+
+
+
+
+<p>再有就是《编译原理》中的部分小题了——正规式、正规集、文法推倒什么的。我们班根本就没有开《编译原理》，只在别人班里听过一点点这方面的内容，太接近离散数学了，我暂时想放弃这部分。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[能保持下去么？]]></title>
+    <link href="http://y.youth2009.org/blog/2011/09/18/can-i-keep-the-score-until-the-date/"/>
+    <updated>2011-09-18T00:00:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2011/09/18/can-i-keep-the-score-until-the-date</id>
+    <content type="html"><![CDATA[<p>今天下午睡觉起来，打算做一套往年的软考试题看看复习成果。由于2010年的两套我都或多或少做过了，于是选了2009年下半年的。大约50分钟做完了上午的75题，核对答案后得了57分，当然不算太理想，不过比上次做2010年的那题好些了，记得那次只得到45分（刚刚及格），希望再通过一个月的复习能够提高到65～70分这个档次！</p>
+
+
+
+
+<p><del>2009年下半年的下午试题还没来得及做，打算晚上吃饭后试试，敬请期待！</del></p>
+
+
+
+
+<p>做完了2009年下半年的下午试题，还是下午试题花时间多啊，大概有60多分钟吧（还有一个题空着），一看那种考算法分析的题目就不想看，于是就空着没做，做了的题正确率不是很好。不过好在第一大题全对了，拿了15分，剩下的不太乐观。总体来看，大约能够拿到30～40分左右，这样不太好，还得继续加强下午试题的训练！明天开始吧！</p>
+
+]]></content>
+  </entry>
+  
+</feed>
