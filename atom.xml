@@ -4,7 +4,7 @@
   <title><![CDATA[dawncold's youth]]></title>
   <link href="http://y.youth2009.org/atom.xml" rel="self"/>
   <link href="http://y.youth2009.org/"/>
-  <updated>2012-12-23T00:33:08+08:00</updated>
+  <updated>2012-12-24T00:17:46+08:00</updated>
   <id>http://y.youth2009.org/</id>
   <author>
     <name><![CDATA[dawncold]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[高兴]]></title>
+    <link href="http://y.youth2009.org/blog/2012/12/24/happy/"/>
+    <updated>2012-12-24T00:15:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2012/12/24/happy</id>
+    <content type="html"><![CDATA[<p>你嫁给我吧？</p>
+
+<p>我先从头考虑。</p>
+
+<p>从头，什么意思呀？</p>
+
+<p>先做男女朋友什么的。</p>
+
+<p>：）</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[总想写点什么，但又]]></title>
@@ -329,19 +346,6 @@
 <p>现在想想，自己本来就该去实训的，不过中途冲出来很多诱惑——LC、Y信等等公司，对于一个没有进入过职场的学生来说这些都有着足够的诱惑，而且公司来头都不算小，即便是自己最终不去这些地方，当作一个良好的跳板来使用也是蛮好的嘛！所以自己就不淡定了，现在只想着赶快实训完然后去和LC谈谈待遇是怎样的，再看看Y信能否有什么优惠。</p>
 
 <p>呵呵，自己手中掌握了资源的感觉就是不一样，不过我也常常考虑这样好不好呢？是不是太自私喽？自己占着好多位子但最终还是只能去一个，万一人家等了你好久而你就三言两语把别人打发走了，是不是有点……？或许每个初入职场的人都会有这样的考虑吧，看来你还是一个不坏的人，都这个时候了还替别人着想：）</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[我要变“坏”了]]></title>
-    <link href="http://y.youth2009.org/blog/2012/06/29/i-will-be-bad/"/>
-    <updated>2012-06-29T00:00:00+08:00</updated>
-    <id>http://y.youth2009.org/blog/2012/06/29/i-will-be-bad</id>
-    <content type="html"><![CDATA[<p>自认为自己最近非常不像原来的自己，好像变成了另外一个人一样，说不出那个人是好是坏，不过很自由。这个新的我和同学朋友在一起的时间超过了和代码在一起的时间，凡是让我体会到这一点的行为都会被我自己认为是在让我“变坏”。</p>
-
-<p>呵呵，其实没有那么严重，最后这几天和同学多聊几句、多喝几杯也都是正常的，如果这几天我还在大规模编码那说出去才吓人呢！但是我确实思考过，在中国，一个程序员的技术能力到底能多大程度上帮助他在职业道路上行走。昨天YC老师和我说一个程序员的技术能够帮助很大，这是根本之类的话；另一位老师（DZA）说技术是一方面但还有比较重要的部分——人际关系处理，或者说技术就显得不那么关键喽。。。像这类截然相反的话听了不少，也都知道该怎么去听了。</p>
-
-<p>可能一时间打了这么多电话、说了这么多话、喝了这么多酒之后和以前自己建立起来的形象不一样了吧。</p>
 ]]></content>
   </entry>
   
