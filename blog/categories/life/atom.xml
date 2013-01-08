@@ -4,7 +4,7 @@
   <title><![CDATA[Category: life | dawncold's youth]]></title>
   <link href="http://y.youth2009.org/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://y.youth2009.org/"/>
-  <updated>2013-01-03T19:58:57+08:00</updated>
+  <updated>2013-01-08T22:05:47+08:00</updated>
   <id>http://y.youth2009.org/</id>
   <author>
     <name><![CDATA[dawncold]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[最近比较烦]]></title>
+    <link href="http://y.youth2009.org/blog/2013/01/08/feel-bad-recently/"/>
+    <updated>2013-01-08T21:31:00+08:00</updated>
+    <id>http://y.youth2009.org/blog/2013/01/08/feel-bad-recently</id>
+    <content type="html"><![CDATA[<p>最近感觉不爽，但不知是怎么导致的。工作上有点无趣，每天似乎都在搞前端的活儿，自己一时兴起做出来的bnly.org已经废弃好久没动了，现在想搞一个hook在github上的东西，有push就自动发weibo，兴趣依然挺大，不过进展十分缓慢，有点不想搞了。每每看到ugly的code我就十分疲倦，而高级的code看一会可能直接睡着了。</p>
+
+<p>就是这样的一些事情不断撞击着我的内心，摧残着我的意志力，写到这里我还能提高一些自信心，但实际在coding、working的时候却什么都忘了。</p>
+
+<p>昨天知道了我们毕业还是得写paper，望着那么多题目，大部分都木有兴趣，有兴趣的几个又让我不知该选什么。哎，其实我没有那么纠结选什么题目，倒是在选谁的题目上花了点时间。最终选了一个MapReduce编程模型研究，这个题目到底是学术的还是实践的，有点模糊，今天liufan和我说这个题目没什么可写的，而且花了时间又不一定能在以后用得上，不太建议我写，不过他那里有些相关的资料以及上一个项目就是用的这个。这个东西先放一放吧，反正要明年毕业之前交上。</p>
+
+<p>GF总是不主动和我说话，每天我都好想好想什么时候能收到她的电话或者短信，但，统统没有。一个人能忙到这种程度我总是十分羡慕的。但反过来，我为何要总希望她给我发短信打电话呢？因为以前总是我在做这些事情吗？而以前她不是我的GF，我觉得我主动些是正常的，但现在是了，再这样就显得不正常了？嗯，我还是按照以前那样来吧，还是那样比较好。</p>
+
+<p>看来我最近“大姨夫”了！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2012年终总结]]></title>
@@ -80,19 +97,6 @@
     <updated>2012-12-23T00:29:00+08:00</updated>
     <id>http://y.youth2009.org/blog/2012/12/23/want-to-writing-something-but</id>
     <content type="html"><![CDATA[<p>今天的事情还是稍稍有些复杂的，总想写点什么，但由于今天的一些事情，产生了很多不确定性，我又没了那种写点什么的兴趣，说是勇气也对，总之现在比较忐忑，什么都不想做也做不来，只想直直地睡去。先这样吧，等回去之后，我想就会有很多东西可说了，那时候，不管是痛苦还是甜蜜我都得全盘接受。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[end]]></title>
-    <link href="http://y.youth2009.org/blog/2012/12/22/end/"/>
-    <updated>2012-12-22T00:01:00+08:00</updated>
-    <id>http://y.youth2009.org/blog/2012/12/22/end</id>
-    <content type="html"><![CDATA[<p>这可真是最后一天了，或者准确点说就剩下几个小时了。天亮的时间到了我们能否看到太阳呢？希望天亮之后不要来个下雨阴天什么的。</p>
-
-<p>很多计划都被别的事情一件件打破，然而一旦被打破，后续的事情往往就不知怎么进行下去了，这个过程会持续多久谁也不知道，在这里根本没有时间的概念，因为一旦被打破，后续的所有，你的整个人生，每个人的人生都会被影响，就像蝴蝶效应一般。我们很多时候说的计划、安排什么的东西实际只是侠义地描绘而已，因为任何事情都不是你自己说了算的，任何事情，别人会影响你，或许值得讨论的是每个人对你的影响力有多大的问题。扯得不知道到哪儿了。。。改天一定把关于事件碰撞影响的思考写成文章发出来。</p>
-
-<p>赶快睡吧，明儿若是能看到太阳，我就按计划进行！</p>
 ]]></content>
   </entry>
   
