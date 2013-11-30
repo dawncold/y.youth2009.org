@@ -4,7 +4,7 @@
   <title><![CDATA[dawncold's youth]]></title>
   <link href="http://y.youth2009.org/atom.xml" rel="self"/>
   <link href="http://y.youth2009.org/"/>
-  <updated>2013-12-01T03:54:53+08:00</updated>
+  <updated>2013-12-01T04:08:51+08:00</updated>
   <id>http://y.youth2009.org/</id>
   <author>
     <name><![CDATA[dawncold]]></name>
@@ -14,111 +14,64 @@
 
   
   <entry>
-    <title type="html"><![CDATA[These-days]]></title>
+    <title type="html"><![CDATA[幸福就是]]></title>
     <link href="http://y.youth2009.org/blog/2013/12/01/these-days/"/>
     <updated>2013-12-01T03:36:59+08:00</updated>
     <id>http://y.youth2009.org/blog/2013/12/01/these-days</id>
     <content type="html"><![CDATA[<p><embed src="http://www.xiami.com/widget/1369981_1074161/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-<span class='line-number'>31</span>
-<span class='line-number'>32</span>
-<span class='line-number'>33</span>
-<span class='line-number'>34</span>
-<span class='line-number'>35</span>
-<span class='line-number'>36</span>
-<span class='line-number'>37</span>
-<span class='line-number'>38</span>
-<span class='line-number'>39</span>
-<span class='line-number'>40</span>
-<span class='line-number'>41</span>
-<span class='line-number'>42</span>
-<span class='line-number'>43</span>
-<span class='line-number'>44</span>
-<span class='line-number'>45</span>
-<span class='line-number'>46</span>
-<span class='line-number'>47</span>
-<span class='line-number'>48</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>不想再牵手 就该放开手
-</span><span class='line'>让爱学会成全和自由
-</span><span class='line'>
-</span><span class='line'>如果还能够继续往前走
-</span><span class='line'>挽留并不代表谁懦弱
-</span><span class='line'>
-</span><span class='line'>我们曾心动 也都曾心痛
-</span><span class='line'>失去太多才懂得拥有
-</span><span class='line'>
-</span><span class='line'>如果没有过 每一次冲动
-</span><span class='line'>怎能相遇过程的感动
-</span><span class='line'>
-</span><span class='line'>我们往往努力爱却更寂寞
-</span><span class='line'>一起做过的梦到了最后真的只是梦
-</span><span class='line'>
-</span><span class='line'>我们常常为了谁受尽折磨
-</span><span class='line'>不明白幸福到底是什么
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'>幸福就是该结束 的时候不再强求
-</span><span class='line'>在你应该珍惜的时候学会别无所求
-</span><span class='line'>幸福就是 去包容 却从不会遗忘自我
-</span><span class='line'>懂得爱自己才更加辽阔
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'>曾为谁执着 也为谁失落
-</span><span class='line'>为谁画你生命的轮廓
-</span><span class='line'>爱没有对错 错过才解脱
-</span><span class='line'>泪水终究能洗尽承诺
-</span><span class='line'>
-</span><span class='line'>我们往往努力爱却更寂寞
-</span><span class='line'>一起做过的梦到了最后真的只是梦
-</span><span class='line'>
-</span><span class='line'>我们常常为了谁受尽折磨
-</span><span class='line'>不明白幸福到底是什么
-</span><span class='line'>
-</span><span class='line'>幸福就是 该结束 的时候不再强求
-</span><span class='line'>在你应该珍惜的时候学会别无所求
-</span><span class='line'>幸福就是去包容 却从不会遗忘自我
-</span><span class='line'>懂得爱自己才更加辽阔
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'>幸福就是被爱过 被伤过都有收获
-</span><span class='line'>在你还能珍惜的时候珍惜你的选择
-</span><span class='line'>幸福就是去包容 却从不会遗忘自我
-</span><span class='line'>懂得爱自己才更加辽阔
-</span><span class='line'>
-</span><span class='line'>幸福是让爱能 海阔天空</span></code></pre></td></tr></table></div></figure>
+<pre><code>不想再牵手 就该放开手
+让爱学会成全和自由
+
+如果还能够继续往前走
+挽留并不代表谁懦弱
+
+我们曾心动 也都曾心痛
+失去太多才懂得拥有
+
+如果没有过 每一次冲动
+怎能相遇过程的感动
+
+我们往往努力爱却更寂寞
+一起做过的梦到了最后真的只是梦
+
+我们常常为了谁受尽折磨
+不明白幸福到底是什么
 
 
+幸福就是该结束 的时候不再强求
+在你应该珍惜的时候学会别无所求
+幸福就是 去包容 却从不会遗忘自我
+懂得爱自己才更加辽阔
 
+
+曾为谁执着 也为谁失落
+为谁画你生命的轮廓
+爱没有对错 错过才解脱
+泪水终究能洗尽承诺
+
+我们往往努力爱却更寂寞
+一起做过的梦到了最后真的只是梦
+
+我们常常为了谁受尽折磨
+不明白幸福到底是什么
+
+幸福就是 该结束 的时候不再强求
+在你应该珍惜的时候学会别无所求
+幸福就是去包容 却从不会遗忘自我
+懂得爱自己才更加辽阔
+
+
+幸福就是被爱过 被伤过都有收获
+在你还能珍惜的时候珍惜你的选择
+幸福就是去包容 却从不会遗忘自我
+懂得爱自己才更加辽阔
+
+幸福是让爱能 海阔天空
+</code></pre>
+
+<p>在这个睡不着觉的夜晚，突然听到奶茶的这首歌，感觉真不一样，平时怎么没发掘这首歌的好？歌词贴上，有几句很美很伤感——“我们常常为了谁受尽折磨
+；不明白幸福到底是什么；幸福就是该结束 的时候不再强求；在你应该珍惜的时候学会别无所求”，其中滋味只有体会过的人才能感受到吧。</p>
 ]]></content>
   </entry>
   
